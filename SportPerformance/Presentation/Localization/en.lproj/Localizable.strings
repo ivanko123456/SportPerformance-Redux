@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SportPerformance
+
+  Created by Ivan Fabri on 27/07/2025.
+  
+*/
+
+"sport_performance_list_nav_title" = "Sport Performances";
+"sport_performance_list_filter_all" = "All";
+"sport_performance_list_filter_local" = "Local";
+"sport_performance_list_filter_remote" = "Remote";
+"sport_performance_list_no_saved_performance" = "No saved performances, please add one.";
+
+"add_sport_performance_nav_title" = "Add Performance";
+"add_sport_performance_name_placeholder" = "Name";
+"add_sport_performance_place_placeholder" = "Place";
+"add_sport_performance_length_placeholder" = "Length in minutes";
+"add_sport_performance_save_button" = "Save";
+"add_sport_performance_save_local" = "Local";
+"add_sport_performance_save_remote" = "Remote";
+"add_sport_performance_done_button" = "Done";
+"add_sport_performance_ok_button" = "OK";
